@@ -8,7 +8,7 @@ public class HighestValuePalindrome {
   * */
   public static void main(String[] args) {
     var a = highestVal("11331", 4);
-    System.out.println(a); // 993399
+    System.out.println(a); // 99399
   }
 
   public static String highestVal(String s, int k) {
